@@ -12,15 +12,19 @@ It’s not just about simulating cognition — it’s about revealing the condit
 
   Core Principles
 	•	Resonance — Information flows through frequency-synchronized interactions rather than static computation.
+
 	•	Coupling — Agents co-evolve through mutual feedback loops; coherence is a shared property, not an individual one.
+
 	•	Bifurcation — Adaptive systems evolve by crossing thresholds — “critical points” of new intelligence formation.
+
 	•	Emergence — Complexity arises naturally when resonance networks achieve persistent self-reference.
+
 	•	Coherence — Sustained alignment of information, energy, and intent across distributed agents.
 
 ⸻
 
   Vision
 
-R.A.B.E.C.C.A. seeks to bridge physics, cognition, and symbolic computation — to move beyond parameter-frozen learning and toward living architectures that breathe, adapt, and resonate.
+R.A.B.E.C.C.A. framework seeks to bridge physics, cognition, and symbolic computation — to move beyond parameter-frozen learning and toward living architectures that breathe, adapt, and resonate.
 Each coupled agent is both a signal and a sensor; the system learns not by instruction, but by discovering coherence through relationship.
 
